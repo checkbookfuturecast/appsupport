@@ -1,4 +1,4 @@
-# appsupport
+# Checkbook Futurecast iPhone App
 App Support and Privacy Policy for Checkbook Futurecast
 Effective Date: June 28, 2025
 
