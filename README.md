@@ -4,10 +4,11 @@ Effective Date: June 28, 2025
 
 Your privacy is important to us. This Privacy Policy explains how the Checkbook Futurecaster application ("the App") collects, uses, and protects your data.
 
-1. No Personal Information Collected
+1. No Personal Information Collected.
 The App does not collect any personally identifiable information (PII) such as names, email addresses, phone numbers, or location data. All data used within the App is entered voluntarily by the user and remains local to the device unless specified below.
 
 2. Data You Provide
+   
 The only information available to the App is the financial transaction data you manually enter, which may include:
 
 Transaction names
